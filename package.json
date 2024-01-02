@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "@nomicfoundation/hardhat-verify": "^2.0.3"
+  },
+  "dependencies": {
+    "ether": "^0.0.9",
+    "web3": "^4.3.0"
   }
 }
